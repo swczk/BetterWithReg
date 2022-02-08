@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Apps Use Light Theme
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"AppsUseLightTheme"=dword:00000000

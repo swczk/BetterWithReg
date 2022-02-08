@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Enable DNS over HTTPS
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters]
+"EnableAutoDoh"=dword:00000002

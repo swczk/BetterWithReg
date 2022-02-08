@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Remove 'Scan with Windows Defender' from the' Context Menu
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\EPP]
+[-HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\EPP]

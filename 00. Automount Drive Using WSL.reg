@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; Stop WSL and Automount Drive Using WSL after Windows Start
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run]
+"Mount PhysicalDrive0"=""C:\Windows\System32\wsl.exe --shutdown && C:\Windows\System32\wsl.exe --mount \\.\PHYSICALDRIVE0 --partition 1" -background"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"Mount PhysicalDrive0"="C:\Windows\System32\wsl.exe --mount \\.\PHYSICALDRIVE0 --partition 1"

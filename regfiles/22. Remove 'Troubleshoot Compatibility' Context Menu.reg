@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Remove 'Troubleshoot Compatibility' Context Menu
+[HKEY_CLASSES_ROOT\exefile\shellex\ContextMenuHandlers\Compatibility]
+@="-{1d27f844-3a1f-4410-85ac-14651078412d}"

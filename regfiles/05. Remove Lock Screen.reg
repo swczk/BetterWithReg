@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Remove Lock Screen
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Personalization]
+"NoLockScreen"=dword:00000001

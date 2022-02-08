@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+
+; Change Icon of Google Docs Files
+[HKEY_CLASSES_ROOT\GoogleDrive.gdoc\DefaultIcon]
+@="%USERPROFILE%\\Chrome\\User Data\\Default\\Web Applications\\_crx_aohghmighlieiainnegkcijnfilokake\\Docs.ico"
+
+; Change Icon of Google Sheets Files
+[HKEY_CLASSES_ROOT\GoogleDrive.gsheet\DefaultIcon]
+@="%USERPROFILE%\\Chrome\\User Data\\Default\\Web Applications\\_crx_felcaaldnbdncclmgdcncolpebgiejap\\Sheets.ico"
+
+; Change Icon of Google Slides Files
+[HKEY_CLASSES_ROOT\GoogleDrive.gslides\DefaultIcon]
+@="%USERPROFILE%\\Chrome\\User Data\\Default\\Web Applications\\_crx_aapocclcgogkmnckokdopfmhonfmgoek\\Slides.ico"
+
+; Change Icon of Google Apps Script Files
+[HKEY_CLASSES_ROOT\GoogleDrive.gscript\DefaultIcon]
+@="%USERPROFILE%\\Chrome\\User Data\\Default\\Web Applications\\_crx_eoieeedlomnegifmaghhjnghhmcldobl\\Google Apps Script.ico"
+
+; Change Icon of Google Forms Files
+[HKEY_CLASSES_ROOT\GoogleDrive.gform\DefaultIcon]
+@="%USERPROFILE%\\Chrome\\User Data\\Default\\Web Applications\\_crx_jhknlonaankphkkbnmjdlpehkinifeeg\\Formulaires Google.ico"
