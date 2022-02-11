@@ -1,5 +1,5 @@
 Windows Registry Editor Version 5.00
 
-; Enable the Recently Added Apps
+; Enable the Recently Added Apps (Default)
 [HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer]
 "HideRecentlyAddedApps"=dword:00000000

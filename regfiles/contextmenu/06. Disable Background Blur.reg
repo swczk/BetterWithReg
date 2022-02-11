@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+; Disable Background Blur
+; Created by Brady Gavin
+; for How-To Geek
+; Article: https://www.howtogeek.com/426554/how-to-disable-the-login-screen-background-blur-on-windows-10/
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
+"DisableAcrylicBackgroundOnLogon"=dword:00000001

@@ -79,6 +79,16 @@ Tutorial: [https://www.tenforums.com/tutorials/78681-file-hash-context-menu-add-
 </details>
 
 <details>
+  <summary>Remove " - Shortcut" Text on Create Shortcuts</summary>
+  <h3 align="left">😧</h3>
+  <h4 align="left">This item has no description yet.</h4>
+Created by: Walter Glenn</br>
+For How-To Geek
+
+Article: [http://www.howtogeek.com/281753/how-to-remove-the-shortcut-text-from-new-shortcuts-in-windows/](http://www.howtogeek.com/281753/how-to-remove-the-shortcut-text-from-new-shortcuts-in-windows/)
+</details>
+
+<details>
   <summary>Remove 'Quick Access' from Navigation Pane</summary>
   <h3 align="left">😧</h3>
   <h4 align="left">This item has no description yet.</h4>
@@ -122,12 +132,6 @@ Tutorial: [https://www.tenforums.com/tutorials/78681-file-hash-context-menu-add-
 
 <details>
   <summary>Remove 'Videos' from This PC 64-bit</summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-</details>
-
-<details>
-  <summary>Remove Shortcut Text</summary>
   <h3 align="left">😧</h3>
   <h4 align="left">This item has no description yet.</h4>
 </details>

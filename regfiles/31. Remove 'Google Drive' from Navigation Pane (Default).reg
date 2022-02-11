@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+; Remove 'Google Drive' from Navigation Pane (Default)
+; Created by: Shawn Brink
+; Created on: May 1st 2016
+; Updated on: March 6th 2018
+; Tutorial: http://www.tenforums.com/tutorials/48991-google-drive-navigation-pane-add-remove-windows-10-a.html
+
+[-HKEY_CURRENT_USER\Software\Classes\CLSID\{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel]
+"{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}"=-

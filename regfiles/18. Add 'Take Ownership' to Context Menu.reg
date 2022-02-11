@@ -1,9 +1,9 @@
 Windows Registry Editor Version 5.00
 
-; Add 'Take Ownership' Context Menu
-; created by Walter Glenn
+; Add 'Take Ownership' to Context Menu
+; Created by Walter Glenn
 ; for How-To Geek
-; article: https://www.howtogeek.com/howto/windows-vista/add-take-ownership-to-explorer-right-click-menu-in-vista/
+; Article: https://www.howtogeek.com/howto/windows-vista/add-take-ownership-to-explorer-right-click-menu-in-vista/
 
 [HKEY_CLASSES_ROOT\*\shell\runas]
 @="Take Ownership"

@@ -1,5 +1,5 @@
 Windows Registry Editor Version 5.00
 
-; Enable Action Center
+; Enable Action Center (Default)
 [HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer]
 "DisableNotificationCenter"=dword:00000000

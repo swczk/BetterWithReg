@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+; Remove 'Quick Access' from Navigation Pane
+; Created by: Shawn Brink
+; Created on: Janauary 11th 2018
+; Tutorial: https://www.tenforums.com/tutorials/4844-remove-quick-access-navigation-pane-windows-10-a.html
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
+"HubMode"=dword:00000001

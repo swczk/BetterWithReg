@@ -1,5 +1,5 @@
 Windows Registry Editor Version 5.00
 
-; Enable Logon Background Image
+; Enable Logon Background Image (Default)
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
 "DisableLogonBackgroundImage"=dword:00000000

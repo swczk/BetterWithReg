@@ -1,5 +1,5 @@
 Windows Registry Editor Version 5.00
 
-; Remove Lock Screen
+; Enable Lock Screen (Default)
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Personalization]
-"NoLockScreen"=dword:00000001
+"NoLockScreen"=dword:00000000

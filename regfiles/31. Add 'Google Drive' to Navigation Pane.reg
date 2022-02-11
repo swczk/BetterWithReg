@@ -1,0 +1,43 @@
+Windows Registry Editor Version 5.00
+
+; Add 'Google Drive' to Navigation Pane
+; Created by: Shawn Brink
+; Created on: May 1st 2016
+; Updated on: December 5th 2018
+; Tutorial: https://www.tenforums.com/tutorials/48991-add-remove-google-drive-navigation-pane-windows-10-a.html
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}]
+@="Google Drive"
+"System.IsPinnedToNamespaceTree"=dword:00000001
+"SortOrderIndex"=dword:00000042
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}\DefaultIcon]
+@=hex(2):43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,20,00,46,\
+  00,69,00,6c,00,65,00,73,00,5c,00,47,00,6f,00,6f,00,67,00,6c,00,65,00,5c,00,\
+  44,00,72,00,69,00,76,00,65,00,5c,00,67,00,6f,00,6f,00,67,00,6c,00,65,00,64,\
+  00,72,00,69,00,76,00,65,00,73,00,79,00,6e,00,63,00,2e,00,65,00,78,00,65,00,\
+  2c,00,30,00,00,00
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}\InProcServer32]
+@=hex(2):43,00,3a,00,5c,00,57,00,49,00,4e,00,44,00,4f,00,57,00,53,00,5c,00,73,\
+  00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,00,68,00,65,00,6c,00,\
+  6c,00,33,00,32,00,2e,00,64,00,6c,00,6c,00,00,00
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}\Instance]
+"CLSID"="{0E5AAE11-A475-4c5b-AB00-C66DE400274E}"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}\Instance\InitPropertyBag]
+"Attributes"=dword:00000011
+"TargetFolderPath"=hex(2):25,00,55,00,73,00,65,00,72,00,50,00,72,00,6f,00,66,\
+  00,69,00,6c,00,65,00,25,00,5c,00,47,00,6f,00,6f,00,67,00,6c,00,65,00,20,00,\
+  44,00,72,00,69,00,76,00,65,00,00,00
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}\ShellFolder]
+"FolderValueFlags"=dword:00000028
+"Attributes"=dword:f080004d
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel]
+"{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{3935ea0f-5756-4db1-8078-d2baf2f7b7b2}]
+@="Google Drive"

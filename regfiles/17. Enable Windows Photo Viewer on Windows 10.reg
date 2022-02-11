@@ -1,6 +1,10 @@
 Windows Registry Editor Version 5.00
 
 ; Enable Windows Photo Viewer on Windows 10
+; Created by Walter Glenn
+; for How-To Geek
+; Article: https://www.howtogeek.com/225844/how-to-make-windows-photo-viewer-your-default-image-viewer-on-windows-10/
+
 [HKEY_CLASSES_ROOT\Applications\photoviewer.dll]
 
 [HKEY_CLASSES_ROOT\Applications\photoviewer.dll\shell]
