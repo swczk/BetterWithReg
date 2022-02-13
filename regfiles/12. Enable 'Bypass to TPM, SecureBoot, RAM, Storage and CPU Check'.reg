@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+; Enable 'Bypass to TPM, SecureBoot, RAM, Storage and CPU Check'
+; Created by: btarunr
+; Tutorial: https://www.techpowerup.com/287584/windows-11-tpm-requirement-bypass-it-in-5-minutes
+
+[HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig]
+"BypassTPMCheck"=dword:00000001
+"BypassSecureBootCheck"=dword:00000001
+"BypassRAMCheck"=dword:00000001
+"BypassStorageCheck"=dword:00000001
+"BypassCPUCheck"=dword:00000001

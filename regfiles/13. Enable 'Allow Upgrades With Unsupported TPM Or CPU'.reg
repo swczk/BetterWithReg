@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; Enable 'Allow Upgrades With Unsupported TPM Or CPU'
+; Created by: Microsoft
+; Tutorial: https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e
+
+[HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup]
+"AllowUpgradesWithUnsupportedTPMOrCPU"=dword:00000001
