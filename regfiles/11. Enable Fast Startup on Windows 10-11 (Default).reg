@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; Enable Fast Startup on Windows 10/11 (Default)
+; Created by: Tashreef Shareef
+; Tutorial: https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Power]
+"HiberbootEnabled"=dword:00000001

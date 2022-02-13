@@ -51,6 +51,18 @@
 </details>
 
 <details>
+  <summary>Disable Fast Startup on Windows 10/11</summary>
+  <h3 align="left">😭</h3>
+  <h4 align="left">This item has no description yet.</h4>
+
+  <h6 align="left">
+  Created by: Tashreef Shareef</br>
+  
+  Tutorial: [https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/)
+  </h6>
+</details>
+
+<details>
   <summary>Enable DNS over HTTPS</summary>
   <h3 align="left">😭</h3>
   <h4 align="left">This item has no description yet.</h4>
