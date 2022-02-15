@@ -392,18 +392,6 @@
 
 <details>
   <summary>
-    Remove 'Share' Context Menu
-  </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
-  <h6 align="left">
-  Created by Unknown</br>
-  </h6>
-</details>
-
-<details>
-  <summary>
     Remove 'Google Drive' Context Menu
   </summary>
   <h3 align="left">😧</h3>
@@ -510,6 +498,20 @@
 
   <h6 align="left">
   Created by Unknown</br>
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Remove 'Share' from Context Menu
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-999999?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <img src="img/share.png" alt="Check Files Hash Sum"/></br>
+  <h6 align="left">
+  Created by: Shawn Brink</br>
+  
+  Tutorial: [https://www.elevenforum.com/t/add-or-remove-share-context-menu-in-windows-11.1690/](https://www.elevenforum.com/t/add-or-remove-share-context-menu-in-windows-11.1690/)
   </h6>
 </details>
 
