@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; Enable New Boot Screen Animation in Windows 11
+; Created by: Vishal Gupta
+; Tutorial: https://www.askvg.com/tip-enable-new-boot-screen-animation-in-windows-11/
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\BootControl]
+"BootProgressAnimation"=dword:00000001

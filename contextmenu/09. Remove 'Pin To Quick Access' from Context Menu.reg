@@ -1,6 +1,7 @@
 Windows Registry Editor Version 5.00
 
 ; Remove 'Pin To Quick Access' from Context Menu
+; Created by: Sergey Tkachenko
 ; Article: https://winaero.com/remove-pin-quick-access-menu-windows-10/
 
 [-HKEY_CLASSES_ROOT\Folder\shell\pintohome]

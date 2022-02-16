@@ -5,19 +5,19 @@
 
 ### What can I change in Windows 🪟?
 
-<details>
+<details open>
   <summary>
-    Enable 'Windows Photo Viewer'
-    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    Enable New Boot Screen Animation in Windows 11
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-999999?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
   <h4 align="left">This item has no description yet.</h4>
 
   <h6 align="left">
-  Created by Walter Glenn</br>
+  Created by: Vishal Gupta</br>
   
-  Article: [https://www.howtogeek.com/225844/how-to-make-windows-photo-viewer-your-default-image-viewer-on-windows-10/](https://www.howtogeek.com/225844/how-to-make-windows-photo-viewer-your-default-image-viewer-on-windows-10/)
+  Tutorial: [https://www.askvg.com/tip-enable-new-boot-screen-animation-in-windows-11/](https://www.askvg.com/tip-enable-new-boot-screen-animation-in-windows-11/)
   </h6>
 </details>
 
@@ -27,8 +27,10 @@
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
+  <h5 align="left">Before</h5>
   <img src="img/hashsum.png" alt="Check Files Hash Sum"/></br>
-  
+  <h5 align="left">After</h5>
+  <img src="img/hashsum1.png" alt="Check Files Hash Sum"/></br>
   <h6 align="left">
   Created by: Shawn Brink</br>
 
@@ -42,9 +44,11 @@
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
-  <img src="img/takeownership.png" alt="Check Files Hash Sum"/></br>
-  <img src="img/takeownership1.png" alt="Check Files Hash Sum"/></br>
-
+  <h5 align="left">Before</h5>
+  <img src="img/takeownership1.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/takeownership.png" alt=""/></br>
+  <img src="img/takeownership2.png" alt=""/></br>
   <h6 align="left">
   Created by: Walter Glenn</br>
 
@@ -55,10 +59,13 @@
 <details>
   <summary>
     Remove 260 Character Path Limit
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
-  <h3 align="left">🥺</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h5 align="left">Before</h5>
+  <img src="img/260limitpath.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/260limitpath1.png" alt=""/></br>
   <h6 align="left">
   Created by: Walter Glenn</br>
 
@@ -72,9 +79,10 @@
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h5 align="left">Before</h5>
+  <img src="img/shortcuttext.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/shortcuttext1.png" alt=""/></br>
   <h6 align="left">
   Created by: Walter Glenn</br>
 
@@ -83,6 +91,202 @@
 </details>
 
 <details>
+  <summary>
+    Disable Lock Screen
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/lockscreen.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/lockscreen1.png" alt=""/></br>
+  <h6 align="left">
+  Created by Unknown</br>
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Disable Logon Background Image
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/lockscreenimage.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/lockscreenimage1.png" alt=""/></br>
+  <h6 align="left">
+  Created by Unknown</br>
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Disable Background Blur
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/lockscreenimageblur.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/lockscreenimageblur1.png" alt=""/></br>
+  <h6 align="left">
+  Created by Brady Gavin
+  
+  Article: [https://www.howtogeek.com/426554/how-to-disable-the-login-screen-background-blur-on-windows-10/](https://www.howtogeek.com/426554/how-to-disable-the-login-screen-background-blur-on-windows-10/)
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Remove 'Share' from Context Menu
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-999999?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/share.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/share1.png" alt=""/></br>
+  <h6 align="left">
+  Created by: Shawn Brink</br>
+  
+  Tutorial: [https://www.elevenforum.com/t/add-or-remove-share-context-menu-in-windows-11.1690/](https://www.elevenforum.com/t/add-or-remove-share-context-menu-in-windows-11.1690/)
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Remove 'Scan with Windows Defender' from the Context Menu
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/scanwithmicrosoftdefender.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/scanwithmicrosoftdefender1.png" alt=""/></br>
+  <h6 align="left">
+  Created by: Shawn Brink</br>
+  
+  Tutorial: [https://www.tenforums.com/tutorials/18145-add-remove-scan-microsoft-defender-context-menu-windows-10-a.html](https://www.tenforums.com/tutorials/18145-add-remove-scan-microsoft-defender-context-menu-windows-10-a.html)
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Remove 'Pin To Quick Access' from Context Menu
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/pinquickaccess.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/pinquickaccess1.png" alt=""/></br>
+  <h6 align="left">
+  Created by: Sergey Tkachenko
+
+  Article: [https://winaero.com/remove-pin-quick-access-menu-windows-10/](https://winaero.com/remove-pin-quick-access-menu-windows-10/)
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Remove 'Include in Library' from Context Menu
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/includeinlibrary.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/includeinlibrary1.png" alt=""/></br>
+  <h6 align="left">
+  Created by: Shawn Brink</br>
+  
+  Tutorial: [http://www.tenforums.com/tutorials/37130-include-library-add-remove-context-menu-windows-10-a.html](http://www.tenforums.com/tutorials/37130-include-library-add-remove-context-menu-windows-10-a.html)
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Remove 'Send To Folder' from Context Menu
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/sendto.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/sendto1.png" alt=""/></br>
+  <h6 align="left">
+  Created by Walter Glenn</br>
+
+  Article: [http://www.howtogeek.com/282546/how-to-disable-the-send-to-folder-on-the-context-menu-in-windows/](http://www.howtogeek.com/282546/how-to-disable-the-send-to-folder-on-the-context-menu-in-windows/)
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Remove 'Restore Previous Version' from Context Menu
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/restorepreviousversions.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/restorepreviousversions1.png" alt=""/></br>
+  <h6 align="left">
+  Created by: Shawn Brink</br>
+  
+  Tutorial: [https://www.tenforums.com/tutorials/79513-remove-previous-versions-context-menu-properties-windows-10-a.html](https://www.tenforums.com/tutorials/79513-remove-previous-versions-context-menu-properties-windows-10-a.html)
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Remove 'Previous Version' from Properties Tab
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/previousversionsproperties.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/previousversionsproperties1.png" alt=""/></br>
+  <h6 align="left">
+  Created by: Shawn Brink</br>
+  
+  Tutorial: [https://www.tenforums.com/tutorials/79513-remove-previous-versions-context-menu-properties-windows-10-a.html](https://www.tenforums.com/tutorials/79513-remove-previous-versions-context-menu-properties-windows-10-a.html)
+  </h6>
+</details>
+
+<details open>
+  <summary>
+    Enable 'Windows Photo Viewer'
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h3 align="left">😧</h3>
+  <h4 align="left">This item has no description yet.</h4>
+
+  <h6 align="left">
+  Created by Walter Glenn</br>
+
+  Article: [https://www.howtogeek.com/225844/how-to-make-windows-photo-viewer-your-default-image-viewer-on-windows-10/](https://www.howtogeek.com/225844/how-to-make-windows-photo-viewer-your-default-image-viewer-on-windows-10/)
+  </h6>
+</details>
+
+<details open>
+  <summary>
+    Associate Files with no Extension to VSCode/Notepad++/VSCodium
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+    </summary>
+  <h3 align="left">😵‍💫</h3>
+  <h4 align="left">This item has no description yet.</h4>
+
+  <h6 align="left">
+  Created by Unknown</br>
+  </h6>
+</details>
+
+<details open>
   <summary>
     Disable Suggested Content in Settings
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-999999?style=flat-square"/>
@@ -98,7 +302,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Disable Fast Startup
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
@@ -114,65 +318,7 @@
   </h6>
 </details>
 
-<details>
-  <summary>
-    Disable Lock Screen
-    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
-    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
-  </summary>
-  <h3 align="left">😣</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
-  <h6 align="left">
-  Created by Unknown</br>
-  </h6>
-</details>
-
-<details>
-  <summary>
-    Disable Logon Background Image
-    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
-    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
-  </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
-  <h6 align="left">
-  Created by Unknown</br>
-  </h6>
-</details>
-
-<details>
-  <summary>
-    Disable Background Blur
-    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
-    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
-  </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
-  <h6 align="left">
-  Created by Brady Gavin
-  
-  Article: [https://www.howtogeek.com/426554/how-to-disable-the-login-screen-background-blur-on-windows-10/](https://www.howtogeek.com/426554/how-to-disable-the-login-screen-background-blur-on-windows-10/)
-  </h6>
-</details>
-
-<details>
-  <summary>
-    Associate Files with no Extension to VSCode/Notepad++/VSCodium
-    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
-    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
-    </summary>
-  <h3 align="left">😵‍💫</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
-  <h6 align="left">
-  Created by Unknown</br>
-  </h6>
-</details>
-
-<details>
+<details open>
   <summary>
     Enable DNS over HTTPS
   </summary>
@@ -184,7 +330,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Disable Bing Searches
   </summary>
@@ -198,7 +344,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Disable 'Action Center'
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
@@ -212,7 +358,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Disable the 'Recently Added Apps'
   </summary>
@@ -227,10 +373,13 @@
 <details>
   <summary>
     Remove 'Quick Access' from Navigation Pane
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h5 align="left">Before</h5>
+  <img src="img/quickaccess.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/quickaccess1.png" alt=""/></br>
   <h6 align="left">
   Created by: Shawn Brink</br>
   
@@ -238,7 +387,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'HomeGroup' from the Navigation Pane
   </summary>
@@ -252,7 +401,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'OneDrive' from Navigation Pane
   </summary>
@@ -266,11 +415,11 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove '3D Objects' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
-    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-999999?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
   <h4 align="left">This item has no description yet.</h4>
@@ -282,7 +431,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'Desktop' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
@@ -298,7 +447,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'Documents' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
@@ -314,7 +463,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'Downloads' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
@@ -330,7 +479,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'Music' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
@@ -346,7 +495,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'Pictures' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
@@ -362,7 +511,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'Videos' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
@@ -378,7 +527,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'Print' Context Menu
   </summary>
@@ -390,7 +539,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'Google Drive' Context Menu
   </summary>
@@ -404,31 +553,7 @@
   </h6>
 </details>
 
-<details>
-  <summary>
-    Remove 'Send To Folder' Context Menu
-  </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
-  <h6 align="left">
-  Created by Unknown</br>
-  </h6>
-</details>
-
-<details>
-  <summary>
-    Remove 'Include in Library' Context Menu
-  </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
-  <h6 align="left">
-  Created by Unknown</br>
-  </h6>
-</details>
-
-<details>
+<details open>
   <summary>
     Remove 'Edit with Paint 3D' Context Menu
   </summary>
@@ -440,7 +565,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'OpenInVisualStudio' Context Menu
   </summary>
@@ -452,32 +577,7 @@
   </h6>
 </details>
 
-<details>
-  <summary>
-    Remove 'Pin To Quick Access' Context Menu
-  </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
-  <h6 align="left">
-
-  Article: [https://winaero.com/remove-pin-quick-access-menu-windows-10/](https://winaero.com/remove-pin-quick-access-menu-windows-10/)
-  </h6>
-</details>
-
-<details>
-  <summary>
-    Remove 'Restore Previous Version' Context Menu
-  </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
-  <h6 align="left">
-  Created by Unknown</br>
-  </h6>
-</details>
-
-<details>
+<details open>
   <summary>
     Remove 'Open in Windows Terminal' Context Menu
   </summary>
@@ -489,7 +589,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Remove 'Troubleshoot Compatibility' Context Menu
   </summary>
@@ -501,37 +601,7 @@
   </h6>
 </details>
 
-<details>
-  <summary>
-    Remove 'Share' from Context Menu
-    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-999999?style=flat-square"/>
-    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
-  </summary>
-  <img src="img/share.png" alt="Check Files Hash Sum"/></br>
-  <h6 align="left">
-  Created by: Shawn Brink</br>
-  
-  Tutorial: [https://www.elevenforum.com/t/add-or-remove-share-context-menu-in-windows-11.1690/](https://www.elevenforum.com/t/add-or-remove-share-context-menu-in-windows-11.1690/)
-  </h6>
-</details>
-
-<details>
-  <summary>
-    Remove 'Scan with Windows Defender' from the Context Menu
-    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
-    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
-  </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
-  <h6 align="left">
-  Created by: Shawn Brink</br>
-  
-  Tutorial: [https://www.tenforums.com/tutorials/18145-add-remove-scan-microsoft-defender-context-menu-windows-10-a.html](https://www.tenforums.com/tutorials/18145-add-remove-scan-microsoft-defender-context-menu-windows-10-a.html)
-  </h6>
-</details>
-
-<details>
+<details open>
   <summary>
     Enable Apps Dark Mode
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
@@ -545,7 +615,7 @@
   </h6>
 </details>
 
-<details>
+<details open>
   <summary>
     Enable System Dark Mode
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
