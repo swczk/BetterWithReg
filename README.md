@@ -5,19 +5,37 @@
 
 ### What can I change in Windows 🪟?
 
-<details open>
+<details>
   <summary>
-    Enable New Boot Screen Animation in Windows 11
+    Enable New Boot Screen Animation
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-999999?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by: Vishal Gupta</br>
   
   Tutorial: [https://www.askvg.com/tip-enable-new-boot-screen-animation-in-windows-11/](https://www.askvg.com/tip-enable-new-boot-screen-animation-in-windows-11/)
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Disable Snap Layouts On Hover
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-999999?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/snaplayoutshover.png" alt="Check Files Hash Sum"/></br>
+  <h5 align="left">After</h5>
+  <img src="img/snaplayoutshover1.png" alt="Check Files Hash Sum"/></br>
+  <h6 align="left">
+  Created by: Ryan Maskell</br>
+  
+  Tutorial: [https://winbuzzer.com/2021/12/06/windows-11-disable-the-snap-layouts-pop-up-on-the-maximize-button-xcxwbt/](https://winbuzzer.com/2021/12/06/windows-11-disable-the-snap-layouts-pop-up-on-the-maximize-button-xcxwbt/)
   </h6>
 </details>
 
@@ -256,15 +274,16 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Enable 'Windows Photo Viewer'
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Walter Glenn</br>
 
@@ -272,29 +291,31 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Associate Files with no Extension to VSCode/Notepad++/VSCodium
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
     </summary>
   <h3 align="left">😵‍💫</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Unknown</br>
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Disable Suggested Content in Settings
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-999999?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
     </summary>
   <h3 align="left">😵‍💫</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by: Shawn Brink</br>
   
@@ -302,15 +323,16 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Disable Fast Startup
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😭</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by: Tashreef Shareef</br>
 
@@ -318,25 +340,27 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Enable DNS over HTTPS
   </summary>
   <h3 align="left">😭</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Unknown</br>
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Disable Bing Searches
   </summary>
   <h3 align="left">😫</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by: Chris Hoffman and Josh Hendrickson</br>
   
@@ -344,27 +368,29 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Disable 'Action Center'
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-999999?style=flat"/>
   </summary>
   <h3 align="left">😩</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Unknown</br>
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Disable the 'Recently Added Apps'
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Unknown</br>
   </h6>
@@ -404,15 +430,16 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'HomeGroup' from the Navigation Pane
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-999999?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by: Shawn Brink</br>
 
@@ -420,13 +447,14 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'OneDrive' from Navigation Pane
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by: Shawn Brink</br>
   
@@ -434,15 +462,16 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove '3D Objects' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-999999?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Chris Hoffman</br>
 
@@ -450,15 +479,16 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'Desktop' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Chris Hoffman</br>
 
@@ -466,15 +496,16 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'Documents' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Chris Hoffman</br>
 
@@ -482,15 +513,16 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'Downloads' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Chris Hoffman</br>
 
@@ -498,15 +530,16 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'Music' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Chris Hoffman</br>
 
@@ -514,15 +547,16 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'Pictures' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Chris Hoffman</br>
 
@@ -530,15 +564,16 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'Videos' from This PC 64-bit/32-bit
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Chris Hoffman</br>
 
@@ -546,25 +581,27 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'Print' Context Menu
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Unknown</br>
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'Google Drive' Context Menu
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by: Shawn Brink</br>
   
@@ -572,83 +609,89 @@
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'Edit with Paint 3D' Context Menu
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Unknown</br>
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'OpenInVisualStudio' Context Menu
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Unknown</br>
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'Open in Windows Terminal' Context Menu
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Unknown</br>
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Remove 'Troubleshoot Compatibility' Context Menu
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Unknown</br>
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Enable Apps Dark Mode
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Unknown</br>
   </h6>
 </details>
 
-<details open>
+<details>
   <summary>
     Enable System Dark Mode
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</h4>
-
+  <h4 align="left">This item has no description yet.</br>
+  To learn more about this modification.</br>
+  Please open the tutorial link below.</h4>
   <h6 align="left">
   Created by Unknown</br>
   </h6>
 </details>
 
-<h3 align="left" style="border-bottom: none">Send us your suggestions 🤝</h3>
+<h3 align="left">Send us your suggestions 🤝</h3>
 
 <p align="center">
   <h3 align="center">⚠️ WARNING ⚠️</h3>
