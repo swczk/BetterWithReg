@@ -63,9 +63,9 @@
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
   </summary>
   <h5 align="left">Before</h5>
-  <img src="img/takeownership1.png" alt=""/></br>
-  <h5 align="left">After</h5>
   <img src="img/takeownership.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/takeownership1.png" alt=""/></br>
   <img src="img/takeownership2.png" alt=""/></br>
   <h6 align="left">
   Created by: Walter Glenn</br>
@@ -157,6 +157,23 @@
 
 <details>
   <summary>
+    Remove 'Open in Terminal' from Context Menu
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-999999?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/openinterminal.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/openinterminal1.png" alt=""/></br>
+  <h6 align="left">
+  Created by: Sergey Tkachenko</br>
+  
+  Tutorial: [https://winaero.com/how-to-remove-open-in-windows-terminal-context-menu-in-windows-11/](https://winaero.com/how-to-remove-open-in-windows-terminal-context-menu-in-windows-11/)
+  </h6>
+</details>
+
+<details>
+  <summary>
     Remove 'Share' from Context Menu
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-999999?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
@@ -174,6 +191,23 @@
 
 <details>
   <summary>
+    Remove 'Print' from Context Menu
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D5?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/print.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/print1.png" alt=""/></br>
+  <h6 align="left">
+  Created by: Sergey Tkachenko</br>
+  
+  Tutorial: [https://winaero.com/remove-print-context-menu-in-windows-10/](https://winaero.com/remove-print-context-menu-in-windows-10/)
+  </h6>
+</details>
+
+<details>
+  <summary>
     Remove 'Scan with Windows Defender' from the Context Menu
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
@@ -186,6 +220,23 @@
   Created by: Shawn Brink</br>
   
   Tutorial: [https://www.tenforums.com/tutorials/18145-add-remove-scan-microsoft-defender-context-menu-windows-10-a.html](https://www.tenforums.com/tutorials/18145-add-remove-scan-microsoft-defender-context-menu-windows-10-a.html)
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Remove 'Cast to Device' from Context Menu
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D5?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/casttodevice.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/casttodevice1.png" alt=""/></br>
+  <h6 align="left">
+  Created by: Shawn Brink</br>
+  
+  Tutorial: [http://www.tenforums.com/tutorials/61525-cast-device-context-menu-add-remove-windows-10-a.html](http://www.tenforums.com/tutorials/61525-cast-device-context-menu-add-remove-windows-10-a.html)
   </h6>
 </details>
 
@@ -583,19 +634,6 @@
 
 <details>
   <summary>
-    Remove 'Print' Context Menu
-  </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</br>
-  To learn more about this modification.</br>
-  Please open the tutorial link below.</h4>
-  <h6 align="left">
-  Created by Unknown</br>
-  </h6>
-</details>
-
-<details>
-  <summary>
     Remove 'Google Drive' Context Menu
   </summary>
   <h3 align="left">😧</h3>
@@ -625,19 +663,6 @@
 <details>
   <summary>
     Remove 'OpenInVisualStudio' Context Menu
-  </summary>
-  <h3 align="left">😧</h3>
-  <h4 align="left">This item has no description yet.</br>
-  To learn more about this modification.</br>
-  Please open the tutorial link below.</h4>
-  <h6 align="left">
-  Created by Unknown</br>
-  </h6>
-</details>
-
-<details>
-  <summary>
-    Remove 'Open in Windows Terminal' Context Menu
   </summary>
   <h3 align="left">😧</h3>
   <h4 align="left">This item has no description yet.</br>
