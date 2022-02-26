@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+; Restore 'Cast to Device' to Context Menu (Default)
+; Created by: Shawn Brink
+; Created on: August 24th 2016
+; Tutorial: http://www.tenforums.com/tutorials/61525-cast-device-context-menu-add-remove-windows-10-a.html
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked]
+"{7AD84985-87B4-4a16-BE58-8B72A5B390F7}"=-
