@@ -327,6 +327,23 @@
 
 <details>
   <summary>
+    Remove 'Quota' from Properties Tab
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/quotaproperties.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/quotaproperties1.png" alt=""/></br>
+  <h6 align="left">
+  Created by: Shawn Brink</br>
+  
+  Tutorial: [https://www.tenforums.com/tutorials/79513-remove-previous-versions-context-menu-properties-windows-10-a.html](https://www.tenforums.com/tutorials/79513-remove-previous-versions-context-menu-properties-windows-10-a.html)
+  </h6>
+</details>
+
+<details>
+  <summary>
     Enable 'Windows Photo Viewer'
     <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
     <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
