@@ -336,9 +336,26 @@
   <h5 align="left">After</h5>
   <img src="img/quotaproperties1.png" alt=""/></br>
   <h6 align="left">
-  Created by: Shawn Brink</br>
+  Created by: PassionateWriter</br>
   
-  Tutorial: [https://www.tenforums.com/tutorials/79513-remove-previous-versions-context-menu-properties-windows-10-a.html](https://www.tenforums.com/tutorials/79513-remove-previous-versions-context-menu-properties-windows-10-a.html)
+  Tutorial: [https://thegeekpage.com/how-to-add-remove-quota-tab-from-drive-properties-on-windows-10/](https://thegeekpage.com/how-to-add-remove-quota-tab-from-drive-properties-on-windows-10/)
+  </h6>
+</details>
+
+<details>
+  <summary>
+    Remove 'Sharing' from Properties Tab
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Before</h5>
+  <img src="img/sharingproperties.png" alt=""/></br>
+  <h5 align="left">After</h5>
+  <img src="img/sharingproperties1.png" alt=""/></br>
+  <h6 align="left">
+  Created by: Sergey Tkachenko</br>
+  
+  Tutorial: [https://winaero.com/remove-sharing-tab-from-folder-properties-in-windows-10/](https://winaero.com/remove-sharing-tab-from-folder-properties-in-windows-10/)
   </h6>
 </details>
 
