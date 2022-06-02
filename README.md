@@ -3,7 +3,37 @@
   <h3 align="center">Trying to make windows better with the help of registry editor. 👨‍💻</h3>
 </p>
 
+### Backup your registry key
+1. Run **Command Prompt** as **Administrator**.
+2. To back up the `HKEY_CLASSES_ROOT` registry key, execute the command `reg export HKCR HKCR.reg`
+3. To back up the `HKEY_CURRENT_USER` registry key, execute the command `reg export HKCU HKCU.reg`
+4. To back up the `HKEY_LOCAL_MACHINE` registry key, execute the command `reg export HKLM HKLM.reg`
+5. To back up the `HKEY_USERS` registry key, execute the command `reg export HKU HKU.reg`
+6. To back up the `HKEY_CURRENT_CONFIG` registry key, execute the command `reg export HKCC HKCC.reg`
+
 ### What can I change in Windows 🪟?
+
+<details>
+  <summary>
+    CVE-2022-30190 Vulnerability Workarounds
+    <img alt="Windows 10" src="https://img.shields.io/badge/-Win_10-0079D7?style=flat-square"/>
+    <img alt="Windows 11" src="https://img.shields.io/badge/-Win_11-0079D5?style=flat"/>
+  </summary>
+  <h5 align="left">Disabling MSDT URL protocol</h5
+
+  1. Run **Command Prompt** as **Administrator**.
+  2. To back up the registry key, execute the command `reg export HKEY_CLASSES_ROOT\ms-msdt filename`
+  3. Execute the command `reg delete HKEY_CLASSES_ROOT\ms-msdt /f`.
+  <h5 align="left">How to undo the workaround</h5>
+
+  1. Run Command Prompt as Administrator.
+  2. To restore the registry key, execute the command `reg import filename`
+
+  Created by: msrc</br>
+  
+  Tutorial: [Microsoft Security Response Center](https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/)
+  </h6>
+</details>
 
 <details>
   <summary>
